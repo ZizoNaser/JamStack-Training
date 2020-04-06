@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "eleventy"
+    "build": "eleventy",
+    "start": "eleventy --serve"
   },
   "author": "A.Alsabagh",
   "license": "ISC",
